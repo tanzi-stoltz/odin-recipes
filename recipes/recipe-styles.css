@@ -1,0 +1,11 @@
+h1 {
+    color: darksalmon;
+text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size:32px ;
+
+*img {
+    width:max-content;
+    height: auto;
+    object-fit: fill;
+}

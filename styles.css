@@ -1,0 +1,48 @@
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+width: 200px;
+background-color: dimgray;
+height: 100%;
+position: fixed;
+overflow: auto;
+
+}
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+/*change the link color on hover */
+li a:hover {
+    background-color: darksalmon;
+    color: black;
+}
+li {
+    text-align: center;
+}
+
+h1 {
+    color: darksalmon;
+text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size:32px ;
+
+}
+/*button css*/
+button {
+color: white;
+background: none;
+font-size: 16px;
+font-weight: bold;
+border: none;
+height: 40px;
+cursor: pointer;
+}
+
+
+
+
